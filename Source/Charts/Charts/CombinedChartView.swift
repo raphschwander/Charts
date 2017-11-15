@@ -253,5 +253,4 @@ open class CombinedChartView: BarLineChartViewBase, CombinedChartDataProvider
             marker.draw(context: context, point: pos)
         }
     }
->>>>>>> c37e553e25c433853f3c1ac3cd0f1457ffeab6ff
 }

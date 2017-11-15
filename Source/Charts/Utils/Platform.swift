@@ -516,8 +516,7 @@ types are aliased to either their UI* implementation (on iOS) or their NS* imple
             }
 		}
     }
-<<<<<<< HEAD
-
+	
     extension NSBezierPath
     {
         var cgPath: CGPath
